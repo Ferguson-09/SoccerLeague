@@ -1,0 +1,15 @@
+/Users/xl/Desktop/Second-Branch/Advanced c#/Assignments/SoccerLeague/SoccerLeague.BLL/bin/Debug/net10.0/SoccerLeague.BLL.deps.json
+/Users/xl/Desktop/Second-Branch/Advanced c#/Assignments/SoccerLeague/SoccerLeague.BLL/bin/Debug/net10.0/SoccerLeague.BLL.dll
+/Users/xl/Desktop/Second-Branch/Advanced c#/Assignments/SoccerLeague/SoccerLeague.BLL/bin/Debug/net10.0/SoccerLeague.BLL.pdb
+/Users/xl/Desktop/Second-Branch/Advanced c#/Assignments/SoccerLeague/SoccerLeague.BLL/bin/Debug/net10.0/SoccerLeague.DAL.dll
+/Users/xl/Desktop/Second-Branch/Advanced c#/Assignments/SoccerLeague/SoccerLeague.BLL/bin/Debug/net10.0/SoccerLeague.DAL.pdb
+/Users/xl/Desktop/Second-Branch/Advanced c#/Assignments/SoccerLeague/SoccerLeague.BLL/obj/Debug/net10.0/SoccerLeague.BLL.csproj.AssemblyReference.cache
+/Users/xl/Desktop/Second-Branch/Advanced c#/Assignments/SoccerLeague/SoccerLeague.BLL/obj/Debug/net10.0/SoccerLeague.BLL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xl/Desktop/Second-Branch/Advanced c#/Assignments/SoccerLeague/SoccerLeague.BLL/obj/Debug/net10.0/SoccerLeague.BLL.AssemblyInfoInputs.cache
+/Users/xl/Desktop/Second-Branch/Advanced c#/Assignments/SoccerLeague/SoccerLeague.BLL/obj/Debug/net10.0/SoccerLeague.BLL.AssemblyInfo.cs
+/Users/xl/Desktop/Second-Branch/Advanced c#/Assignments/SoccerLeague/SoccerLeague.BLL/obj/Debug/net10.0/SoccerLeague.BLL.csproj.CoreCompileInputs.cache
+/Users/xl/Desktop/Second-Branch/Advanced c#/Assignments/SoccerLeague/SoccerLeague.BLL/obj/Debug/net10.0/SoccerLe.DA7B38FB.Up2Date
+/Users/xl/Desktop/Second-Branch/Advanced c#/Assignments/SoccerLeague/SoccerLeague.BLL/obj/Debug/net10.0/SoccerLeague.BLL.dll
+/Users/xl/Desktop/Second-Branch/Advanced c#/Assignments/SoccerLeague/SoccerLeague.BLL/obj/Debug/net10.0/refint/SoccerLeague.BLL.dll
+/Users/xl/Desktop/Second-Branch/Advanced c#/Assignments/SoccerLeague/SoccerLeague.BLL/obj/Debug/net10.0/SoccerLeague.BLL.pdb
+/Users/xl/Desktop/Second-Branch/Advanced c#/Assignments/SoccerLeague/SoccerLeague.BLL/obj/Debug/net10.0/ref/SoccerLeague.BLL.dll

@@ -1,0 +1,14 @@
+/Users/xl/Desktop/Second-Branch/Advanced c#/Assignments/SoccerLeague/SoccerLeague.DAL/bin/Debug/net10.0/SoccerLeague.DAL.deps.json
+/Users/xl/Desktop/Second-Branch/Advanced c#/Assignments/SoccerLeague/SoccerLeague.DAL/bin/Debug/net10.0/SoccerLeague.DAL.runtimeconfig.json
+/Users/xl/Desktop/Second-Branch/Advanced c#/Assignments/SoccerLeague/SoccerLeague.DAL/bin/Debug/net10.0/SoccerLeague.DAL.dll
+/Users/xl/Desktop/Second-Branch/Advanced c#/Assignments/SoccerLeague/SoccerLeague.DAL/bin/Debug/net10.0/SoccerLeague.DAL.pdb
+/Users/xl/Desktop/Second-Branch/Advanced c#/Assignments/SoccerLeague/SoccerLeague.DAL/obj/Debug/net10.0/SoccerLeague.DAL.csproj.AssemblyReference.cache
+/Users/xl/Desktop/Second-Branch/Advanced c#/Assignments/SoccerLeague/SoccerLeague.DAL/obj/Debug/net10.0/SoccerLeague.DAL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xl/Desktop/Second-Branch/Advanced c#/Assignments/SoccerLeague/SoccerLeague.DAL/obj/Debug/net10.0/SoccerLeague.DAL.AssemblyInfoInputs.cache
+/Users/xl/Desktop/Second-Branch/Advanced c#/Assignments/SoccerLeague/SoccerLeague.DAL/obj/Debug/net10.0/SoccerLeague.DAL.AssemblyInfo.cs
+/Users/xl/Desktop/Second-Branch/Advanced c#/Assignments/SoccerLeague/SoccerLeague.DAL/obj/Debug/net10.0/SoccerLeague.DAL.csproj.CoreCompileInputs.cache
+/Users/xl/Desktop/Second-Branch/Advanced c#/Assignments/SoccerLeague/SoccerLeague.DAL/obj/Debug/net10.0/SoccerLeague.DAL.dll
+/Users/xl/Desktop/Second-Branch/Advanced c#/Assignments/SoccerLeague/SoccerLeague.DAL/obj/Debug/net10.0/refint/SoccerLeague.DAL.dll
+/Users/xl/Desktop/Second-Branch/Advanced c#/Assignments/SoccerLeague/SoccerLeague.DAL/obj/Debug/net10.0/SoccerLeague.DAL.pdb
+/Users/xl/Desktop/Second-Branch/Advanced c#/Assignments/SoccerLeague/SoccerLeague.DAL/obj/Debug/net10.0/SoccerLeague.DAL.genruntimeconfig.cache
+/Users/xl/Desktop/Second-Branch/Advanced c#/Assignments/SoccerLeague/SoccerLeague.DAL/obj/Debug/net10.0/ref/SoccerLeague.DAL.dll
